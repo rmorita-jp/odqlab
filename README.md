@@ -3,7 +3,7 @@
 ODQLab is a free Matlab-based graphical tool for design and verification of optimal dynamic quantizers.
 It needs only few parameter inputs and some clicks.
 
-Design examples are found in SICE JCMI Vol. 4, No. 5, pp. 408–416, 2008 and IEEE MSC 2010, pp. 2356–2361, which are listed in a "Publication" page.
+Design examples are found in SICE JCMI Vol. 4, No. 5, pp. 408–416, 2008 and IEEE MSC 2010, pp. 2356–2361.
 
 System requirement
 
