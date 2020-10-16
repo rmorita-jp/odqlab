@@ -7,7 +7,7 @@ Design examples are found in SICE JCMI Vol. 4, No. 5, pp. 408–416, 2008 and IE
 
 System requirement
 
-- Matlab R2008a or higher
+- Matlab R2012b or higher
 - Control Toolbox
 - At least one of the following
   - Optimization Toolbox
